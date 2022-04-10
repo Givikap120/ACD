@@ -1,2 +1,0 @@
-# ACD
-Algorithms and stuctures
